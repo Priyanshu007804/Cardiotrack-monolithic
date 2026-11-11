@@ -1,7 +1,6 @@
 package com.cardio.cardiotrack.controller;
 
 import java.io.IOException;
-import java.net.http.HttpHeaders;
 import java.util.List;
 
 import org.springframework.core.io.ByteArrayResource;
